@@ -1,0 +1,16 @@
+source_id,organization,source_type,title,url,download
+S01,OpenAI,company_index,Deployment Safety Hub,https://deploymentsafety.openai.com/,no
+S02,Anthropic,company_index,Claude system cards,https://www.anthropic.com/system-cards,no
+S03,Google,company_index,DeepMind model cards,https://deepmind.google/models/model-cards/,no
+S04,Meta,company_index,Llama models and cards,https://github.com/meta-llama/llama-models,no
+S05,Moonshot AI,company_index,Official repositories,https://github.com/MoonshotAI,no
+S06,DeepSeek,company_index,Transparency Center,https://deepseek.com/en/transparency/,no
+S07,Epoch AI,metadata,All AI models,https://epoch.ai/data/all_ai_models.csv,no
+S08,Epoch AI,benchmark_index,LLM benchmark data,https://epoch.ai/benchmarks/use-this-data,no
+S09,MIT,taxonomy_index,AI Risk Repository,https://airisk.mit.edu/risks,no
+S10,METR,independent_index,Risk assessment reports,https://metr.org/evaluations/,no
+S11,METR,independent_index,Time horizons data,https://metr.org/time-horizons/,no
+S12,UK AISI,independent,Frontier AI Trends Report,https://www.aisi.gov.uk/frontier-ai-trends-report,yes
+S13,OpenAI,company,GPT-4o System Card,https://openai.com/index/gpt-4o-system-card/,yes
+S14,OpenAI,company,o1 System Card,https://openai.com/index/openai-o1-system-card/,yes
+S15,Moonshot AI,company,Kimi K2 repository and technical report,https://github.com/moonshotai/Kimi-K2,yes

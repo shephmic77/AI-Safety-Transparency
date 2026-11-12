@@ -1,0 +1,359 @@
+organization,source_type,index_url,title,url,status
+OpenAI,company,https://deploymentsafety.openai.com/,"Nov 05, 2026 GPT-6 Cyber System Card",https://deploymentsafety.openai.com/gpt-6-cyber,candidate_unreviewed
+OpenAI,company,https://deploymentsafety.openai.com/,"Nov 04, 2026 ChatGPT Images 2.6 System Card System card for ChatGPT Images 2.6, covering model capabilities, safety evaluations, safeguards, and image provenance.",https://deploymentsafety.openai.com/chatgpt-images-2-6,candidate_unreviewed
+OpenAI,company,https://deploymentsafety.openai.com/,"Oct 30, 2026 GPT-Rosalind-6 System Card Addendum",https://deploymentsafety.openai.com/gpt-rosalind-6,candidate_unreviewed
+OpenAI,company,https://deploymentsafety.openai.com/,"Oct 29, 2026 Addendum to GPT-6 Luna System Card: October 29, 2026 Update",https://deploymentsafety.openai.com/gpt-6-luna-october-28-2026-addendum,candidate_unreviewed
+OpenAI,company,https://deploymentsafety.openai.com/,"Oct 26, 2026 Addendum to GPT-6 Astra System Card: GPT-6.1 Terra",https://deploymentsafety.openai.com/gpt-6-1-terra,candidate_unreviewed
+OpenAI,company,https://deploymentsafety.openai.com/,"Oct 15, 2026 GPT-Live-1.1 system card",https://deploymentsafety.openai.com/gpt-live-1-1,candidate_unreviewed
+OpenAI,company,https://deploymentsafety.openai.com/,"Oct 07, 2026 GPT-6 Sol and GPT-6 Luna: October 2026 update",https://deploymentsafety.openai.com/gpt-6-october,candidate_unreviewed
+OpenAI,company,https://deploymentsafety.openai.com/,"Sep 29, 2026 Addendum to GPT-6 Astra System Card: GPT-6.1 Sol Safety evaluations and safeguards for GPT-6.1 Sol, an addendum to the GPT-6 Astra system card.",https://deploymentsafety.openai.com/gpt-6-1-sol,candidate_unreviewed
+OpenAI,company,https://deploymentsafety.openai.com/,Read reports,https://openai.com/trust-and-transparency/?utm_source=deployment-safety-hub,candidate_unreviewed
+Anthropic,company,https://www.anthropic.com/system-cards,Skip to main content,https://www.anthropic.com/system-cards#main-content,candidate_unreviewed
+Anthropic,company,https://www.anthropic.com/system-cards,Read system card,https://www.anthropic.com/claude-fable-5-2-mythos-5-2-system-card,candidate_unreviewed
+Anthropic,company,https://www.anthropic.com/system-cards,Read system card,https://www.anthropic.com/claude-haiku-5-5-system-card,candidate_unreviewed
+Anthropic,company,https://www.anthropic.com/system-cards,Read system card,https://www.anthropic.com/claude-sonnet-5-5-system-card,candidate_unreviewed
+Anthropic,company,https://www.anthropic.com/system-cards,Read system card,https://www.anthropic.com/claude-opus-5-5-system-card,candidate_unreviewed
+Anthropic,company,https://www.anthropic.com/system-cards,Read system card,https://www.anthropic.com/claude-fable-5-1-mythos-5-1-system-card,candidate_unreviewed
+Anthropic,company,https://www.anthropic.com/system-cards,Read system card,https://anthropic.com/claude-opus-5-system-card,candidate_unreviewed
+Anthropic,company,https://www.anthropic.com/system-cards,Read system card,https://anthropic.com/claude-sonnet-5-system-card,candidate_unreviewed
+Anthropic,company,https://www.anthropic.com/system-cards,Read system card,https://anthropic.com/claude-opus-4-8-system-card,candidate_unreviewed
+Anthropic,company,https://www.anthropic.com/system-cards,Read system card,https://anthropic.com/claude-fable-5-mythos-5-system-card,candidate_unreviewed
+Anthropic,company,https://www.anthropic.com/system-cards,Read system card,https://anthropic.com/claude-opus-4-7-system-card,candidate_unreviewed
+Anthropic,company,https://www.anthropic.com/system-cards,Read system card,https://www.anthropic.com/claude-mythos-preview-system-card,candidate_unreviewed
+Anthropic,company,https://www.anthropic.com/system-cards,Read system card,http://anthropic.com/claude-sonnet-4-6-system-card,candidate_unreviewed
+Anthropic,company,https://www.anthropic.com/system-cards,Read system card,https://anthropic.com/claude-opus-4-6-system-card,candidate_unreviewed
+Anthropic,company,https://www.anthropic.com/system-cards,Read system card,https://www-cdn.anthropic.com/bf10f64990cfda0ba858290be7b8cc6317685f47.pdf,candidate_unreviewed
+Anthropic,company,https://www.anthropic.com/system-cards,Read system card,https://www-cdn.anthropic.com/7aad69bf12627d42234e01ee7c36305dc2f6a970.pdf,candidate_unreviewed
+Anthropic,company,https://www.anthropic.com/system-cards,Read system card,https://www-cdn.anthropic.com/963373e433e489a87a10c823c52a0a013e9172dd.pdf,candidate_unreviewed
+Anthropic,company,https://www.anthropic.com/system-cards,Read system card,https://www-cdn.anthropic.com/9fa30625273bafdf5af82c93719d7ca606485a16.pdf,candidate_unreviewed
+Anthropic,company,https://www.anthropic.com/system-cards,Read system card,https://www-cdn.anthropic.com/07b2a3f9902ee19fe39a36ca638e5ae987bc64dd.pdf,candidate_unreviewed
+Anthropic,company,https://www.anthropic.com/system-cards,Read system card,https://www-cdn.anthropic.com/9ff93dfa8f445c932415d335c88852ef47f1201e.pdf,candidate_unreviewed
+Anthropic,company,https://www.anthropic.com/system-cards,Read system card,https://www-cdn.anthropic.com/c7822cdc35ad788ec87e14b3a9d45010f1f86c38.pdf,candidate_unreviewed
+Anthropic,company,https://www.anthropic.com/system-cards,Read system card,https://www-cdn.anthropic.com/fed9cc193a14b84131812372d8d5857f8f304c52/Model_Card_Claude_3_Addendum.pdf,candidate_unreviewed
+Anthropic,company,https://www.anthropic.com/system-cards,Read system card,https://www-cdn.anthropic.com/c6a80a657af445f40e31afac050f3bf76d3b1404.pdf,candidate_unreviewed
+Anthropic,company,https://www.anthropic.com/system-cards,Read system card,https://www-cdn.anthropic.com/bd2a28d2535bfb0494cc8e2a3bf135d2e7523226/Model-Card-Claude-2.pdf,candidate_unreviewed
+Anthropic,company,https://www.anthropic.com/system-cards,Claude.ai,https://claude.ai/,candidate_unreviewed
+Anthropic,company,https://www.anthropic.com/system-cards,Claude console,https://platform.claude.com/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,Skip to main content,https://deepmind.google/models/model-cards/#page-content,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,Gemini Build intelligent agents,https://deepmind.google/models/gemini/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,Gemini Omni Create anything from anything,https://deepmind.google/models/gemini-omni/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,Nano Banana Create and edit detailed images,https://deepmind.google/models/gemini-image/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,"Gemini Audio Talk, create and control audio",https://deepmind.google/models/gemini-audio/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,"Gemini Robotics Perceive, reason, use tools and interact",https://deepmind.google/models/gemini-robotics/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,AlphaEvolve Design advanced algorithms for math and applications in computing,https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,Gemini for Science,https://ai.google/gemini-for-science?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,Build with Gemini,https://aistudio.google.com/prompts/new_chat?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,Try Gemini,https://gemini.google.com/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,Gemini app Chat with Gemini,https://gemini.google.com/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,Gemini,https://deepmind.google/models/model-cards/#gemini,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,Generative models,https://deepmind.google/models/model-cards/#generative-models,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,Robotics,https://deepmind.google/models/model-cards/#robotics,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,Gemma,https://deepmind.google/models/model-cards/#gemma,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://deepmind.google/models/model-cards/gemini-4-hydrogen/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://deepmind.google/models/model-cards/gemini-4-carbon/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://deepmind.google/models/model-cards/gemini-omni-1-2-flash/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://deepmind.google/models/model-cards/gemini-4-argon/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://deepmind.google/models/model-cards/nano-banana-2-1/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://deepmind.google/models/model-cards/gemini-3-8-audio/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://deepmind.google/models/model-cards/gemini-3-8-flash/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://deepmind.google/models/model-cards/gemini-omni-flash/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://deepmind.google/models/model-cards/gemini-3-5-audio/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://deepmind.google/models/model-cards/gemini-3-7-flash/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://deepmind.google/models/model-cards/gemini-3-6-flash/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://deepmind.google/models/model-cards/gemini-3-5-flash-lite/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://deepmind.google/models/model-cards/gemini-3-1-flash-lite-image/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://deepmind.google/models/model-cards/gemini-3-5-flash/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://deepmind.google/models/model-cards/gemini-3-1-flash-audio/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://deepmind.google/models/model-cards/gemini-3-1-flash-lite/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://deepmind.google/models/model-cards/gemini-3-1-flash-image/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://deepmind.google/models/model-cards/gemini-3-1-pro/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://deepmind.google/models/model-cards/gemini-3-flash/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://deepmind.google/models/model-cards/gemini-3-pro-image/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://deepmind.google/models/model-cards/gemini-3-pro/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-2-5-Computer-Use-Model-Card.pdf,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-2-5-Deep-Think-Model-Card.pdf,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-2-5-Flash-Lite-Model-Card.pdf,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-2-5-Flash-Model-Card.pdf,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-2-5-Pro-Model-Card.pdf,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-2-0-Flash-Model-Card.pdf,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-2-0-Flash-Lite-Model-Card.pdf,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf#page=105,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf#page=71,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://deepmind.google/models/model-cards/lyria-3-5/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://deepmind.google/models/model-cards/veo-3-1-lite/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://deepmind.google/models/model-cards/lyria-3/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://storage.googleapis.com/deepmind-media/Model-Cards/Veo-3-Model-Card.pdf,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://storage.googleapis.com/deepmind-media/Model-Cards/Imagen-4-Model-Card.pdf,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://deepmind.google/models/model-cards/gemini-robotics-er-2/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://deepmind.google/models/model-cards/gemini-robotics-on-device-2/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://deepmind.google/models/model-cards/gemini-robotics-er-1-6/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://storage.googleapis.com/deepmind-media/gemini-robotics/Gemini-Robotics-1-5-Tech-Report.pdf#page=30,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-Robotics-On-Device-Model-Card.pdf,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://ai.google.dev/gemma/docs/embeddinggemma/model_card_2?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://ai.google.dev/gemma/docs/diffusiongemma/model_card?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://ai.google.dev/gemma/docs/core/model_card_4?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://ai.google.dev/gemma/docs/functiongemma/model_card,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://ai.google.dev/gemma/docs/embeddinggemma/model_card,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://ai.google.dev/gemma/docs/core/model_card_3,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://ai.google.dev/gemma/docs/gemma-3n/model_card,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://ai.google.dev/gemma/docs/shieldgemma/model_card_2,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://ai.google.dev/gemma/docs/model_card_2,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://ai.google.dev/gemma/docs/model_card,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://ai.google.dev/gemma/docs/codegemma/model_card,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://ai.google.dev/gemma/docs/paligemma/model-card-2,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://ai.google.dev/gemma/docs/paligemma/model-card,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://ai.google.dev/gemma/docs/recurrentgemma/model_card,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,View model card,https://ai.google.dev/gemma/docs/shieldgemma/model_card,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,Gemini,https://deepmind.google/models/gemini/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,Gemini Omni,https://deepmind.google/models/gemini-omni/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,Nano Banana,https://deepmind.google/models/gemini-image/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,Gemini Audio,https://deepmind.google/models/gemini-audio/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,Gemini Robotics,https://deepmind.google/models/gemini-robotics/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,AlphaEvolve,https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/,candidate_unreviewed
+Google,company,https://deepmind.google/models/model-cards/,Gemini app,https://gemini.google.com/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Skip to content,https://github.com/meta-llama/llama-models#start-of-content,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Sign in,https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmeta-llama%2Fllama-models,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Sign up,https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=meta-llama%2Fllama-models,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Reload,https://github.com/meta-llama/llama-models,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,meta-llama,https://github.com/meta-llama,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,llama-models,https://github.com/meta-llama/llama-models,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Code,https://github.com/meta-llama/llama-models,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Issues 203 ( 203 ),https://github.com/meta-llama/llama-models/issues,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Pull requests 32 ( 32 ),https://github.com/meta-llama/llama-models/pulls,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Actions,https://github.com/meta-llama/llama-models/actions,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Projects,https://github.com/meta-llama/llama-models/projects,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Security and quality,https://github.com/meta-llama/llama-models/security,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Insights,https://github.com/meta-llama/llama-models/pulse,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,,https://github.com/meta-llama/llama-models,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Notifications,https://github.com/login?return_to=%2Fmeta-llama%2Fllama-models,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Fork 1.4k ( 1.4k ),https://github.com/login?return_to=%2Fmeta-llama%2Fllama-models,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Star 7.7k ( 7.7k ),https://github.com/login?return_to=%2Fmeta-llama%2Fllama-models,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Readme,https://github.com/meta-llama/llama-models#readme-ov-file,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,License,https://github.com/meta-llama/llama-models#License-1-ov-file,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Code of conduct,https://github.com/meta-llama/llama-models#coc-ov-file,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Contributing,https://github.com/meta-llama/llama-models#contributing-ov-file,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Security policy,https://github.com/meta-llama/llama-models#security-ov-file,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Activity,https://github.com/meta-llama/llama-models/activity,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Custom properties,https://github.com/meta-llama/llama-models/custom-properties,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,1.4k forks,https://github.com/meta-llama/llama-models/forks,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Report repository,https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fmeta-llama%2Fllama-models&report=meta-llama+%28user%29,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Branches,https://github.com/meta-llama/llama-models/branches,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Tags,https://github.com/meta-llama/llama-models/tags,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,,https://github.com/meta-llama/llama-models/branches,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,,https://github.com/meta-llama/llama-models/tags,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,216 Commits,https://github.com/meta-llama/llama-models/commits/main/,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,,https://github.com/meta-llama/llama-models/commits/main/,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,.github,https://github.com/meta-llama/llama-models/tree/main/.github,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,docs,https://github.com/meta-llama/llama-models/tree/main/docs,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,models,https://github.com/meta-llama/llama-models/tree/main/models,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,.gitignore,https://github.com/meta-llama/llama-models/blob/main/.gitignore,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,.pre-commit-config.yaml,https://github.com/meta-llama/llama-models/blob/main/.pre-commit-config.yaml,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,.ruff.toml,https://github.com/meta-llama/llama-models/blob/main/.ruff.toml,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,CODE_OF_CONDUCT.md,https://github.com/meta-llama/llama-models/blob/main/CODE_OF_CONDUCT.md,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,CONTRIBUTING.md,https://github.com/meta-llama/llama-models/blob/main/CONTRIBUTING.md,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,LICENSE,https://github.com/meta-llama/llama-models/blob/main/LICENSE,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Llama_Repo.jpeg,https://github.com/meta-llama/llama-models/blob/main/Llama_Repo.jpeg,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,MANIFEST.in,https://github.com/meta-llama/llama-models/blob/main/MANIFEST.in,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,README.md,https://github.com/meta-llama/llama-models/blob/main/README.md,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,SECURITY.md,https://github.com/meta-llama/llama-models/blob/main/SECURITY.md,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,llama_models,https://github.com/meta-llama/llama-models/blob/main/llama_models,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,pyproject.toml,https://github.com/meta-llama/llama-models/blob/main/pyproject.toml,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,requirements.txt,https://github.com/meta-llama/llama-models/blob/main/requirements.txt,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,uv.lock,https://github.com/meta-llama/llama-models/blob/main/uv.lock,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,README,https://github.com/meta-llama/llama-models,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Code of conduct,https://github.com/meta-llama/llama-models,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Contributing,https://github.com/meta-llama/llama-models,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,License,https://github.com/meta-llama/llama-models,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Security,https://github.com/meta-llama/llama-models,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,,https://github.com/meta-llama/llama-models/blob/main/Llama_Repo.jpeg,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Models on Hugging Face,https://huggingface.co/meta-Llama,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Website,https://llama.meta.com/,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Get Started,https://llama.meta.com/get-started/,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Llama Cookbook,https://github.com/meta-llama/llama-cookbook,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,,https://github.com/meta-llama/llama-models#llama-models,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,,https://github.com/meta-llama/llama-models#llama-models-1,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,,https://pypi.org/project/llama-models/,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Use Policy,https://github.com/meta-llama/llama-models/blob/main/models/llama2/USE_POLICY.md,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,License,https://github.com/meta-llama/llama-models/blob/main/models/llama2/LICENSE,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Model Card,https://github.com/meta-llama/llama-models/blob/main/models/llama2/MODEL_CARD.md,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Use Policy,https://github.com/meta-llama/llama-models/blob/main/models/llama3/USE_POLICY.md,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,License,https://github.com/meta-llama/llama-models/blob/main/models/llama3/LICENSE,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Model Card,https://github.com/meta-llama/llama-models/blob/main/models/llama3/MODEL_CARD.md,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Use Policy,https://github.com/meta-llama/llama-models/blob/main/models/llama3_1/USE_POLICY.md,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,License,https://github.com/meta-llama/llama-models/blob/main/models/llama3_1/LICENSE,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Model Card,https://github.com/meta-llama/llama-models/blob/main/models/llama3_1/MODEL_CARD.md,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Use Policy,https://github.com/meta-llama/llama-models/blob/main/models/llama3_2/USE_POLICY.md,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,License,https://github.com/meta-llama/llama-models/blob/main/models/llama3_2/LICENSE,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Model Card,https://github.com/meta-llama/llama-models/blob/main/models/llama3_2/MODEL_CARD.md,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Model Card,https://github.com/meta-llama/llama-models/blob/main/models/llama3_2/MODEL_CARD_VISION.md,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Use Policy,https://github.com/meta-llama/llama-models/blob/main/models/llama3_3/USE_POLICY.md,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,License,https://github.com/meta-llama/llama-models/blob/main/models/llama3_3/LICENSE,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Model Card,https://github.com/meta-llama/llama-models/blob/main/models/llama3_3/MODEL_CARD.md,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Use Policy,https://github.com/meta-llama/llama-models/blob/main/models/llama4/USE_POLICY.md,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,License,https://github.com/meta-llama/llama-models/blob/main/models/llama4/LICENSE,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Model Card,https://github.com/meta-llama/llama-models/blob/main/models/llama4/MODEL_CARD.md,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,,https://github.com/meta-llama/llama-models#download,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Meta Llama website,https://llama.meta.com/llama-downloads/,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,,https://github.com/meta-llama/llama-models#cli-commands-reference,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,,https://github.com/meta-llama/llama-models#running-the-models,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,,https://github.com/meta-llama/llama-models#running-inference-with-fp8-and-int4-quantization,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Llama Stack,https://github.com/meta-llama/llama-stack,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,,https://github.com/meta-llama/llama-models#access-to-hugging-face,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,Hugging Face,https://huggingface.co/meta-llama,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,meta-llama/Llama-4-Scout-17B-16E,https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,,https://github.com/meta-llama/llama-models#installations,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,package,https://pypi.org/project/llama-models/,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,,https://github.com/meta-llama/llama-models#responsible-use,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,,https://github.com/meta-llama/llama-models#issues,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,https://github.com/meta-llama/llama-models/issues,https://github.com/meta-llama/llama-models/issues,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,developers.facebook.com/llama_output_feedback,http://developers.facebook.com/llama_output_feedback,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,,https://github.com/meta-llama/llama-models#questions,candidate_unreviewed
+Meta,company,https://github.com/meta-llama/llama-models,here,https://llama.meta.com/faq,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,Kimi K3,https://github.com/MoonshotAI/Kimi-K3,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,Kimi K2.5,https://github.com/MoonshotAI/Kimi-K2.5,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,Kimi Linear,https://github.com/MoonshotAI/Kimi-Linear,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,Kimi K2,https://github.com/MoonshotAI/Kimi-K2,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,Kimi-K1.5,https://github.com/MoonshotAI/Kimi-k1.5,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,Kimi-VL,https://github.com/MoonshotAI/Kimi-VL,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,Kimina-Prover Preview,https://github.com/MoonshotAI/Kimina-Prover-Preview,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,Kimi-Audio,https://github.com/MoonshotAI/Kimi-Audio,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,,https://github.com/MoonshotAI#benchmarks,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,Kimi Code,https://github.com/MoonshotAI/kimi-code,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,Kimi-Vendor-Verifier,https://github.com/MoonshotAI/Kimi-Vendor-Verifier,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,kimi-code,https://github.com/MoonshotAI/kimi-code,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,8.2k,https://github.com/MoonshotAI/kimi-code/stargazers,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,1.4k,https://github.com/MoonshotAI/kimi-code/forks,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,Kimi-K3,https://github.com/MoonshotAI/Kimi-K3,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,9.1k,https://github.com/MoonshotAI/Kimi-K3/stargazers,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,789,https://github.com/MoonshotAI/Kimi-K3/forks,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,,https://github.com/MoonshotAI/kimi-code/graphs/commit-activity,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,"8,216",https://github.com/MoonshotAI/kimi-code/stargazers,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,"1,369",https://github.com/MoonshotAI/kimi-code/forks,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,"1,270",https://github.com/MoonshotAI/kimi-code/issues,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,544,https://github.com/MoonshotAI/kimi-code/pulls,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,,https://github.com/MoonshotAI/Kimi-Vendor-Verifier/graphs/commit-activity,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,201,https://github.com/MoonshotAI/Kimi-Vendor-Verifier/stargazers,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,29,https://github.com/MoonshotAI/Kimi-Vendor-Verifier/forks,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,7,https://github.com/MoonshotAI/Kimi-Vendor-Verifier/issues,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,2,https://github.com/MoonshotAI/Kimi-Vendor-Verifier/pulls,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,kimi-cli,https://github.com/MoonshotAI/kimi-cli,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,https://github.com/MoonshotAI/kimi-code,https://github.com/MoonshotAI/kimi-code,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,,https://github.com/MoonshotAI/kimi-cli/graphs/commit-activity,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,"11,415",https://github.com/MoonshotAI/kimi-cli/stargazers,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,"1,326",https://github.com/MoonshotAI/kimi-cli/forks,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,490,https://github.com/MoonshotAI/kimi-cli/issues,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,303,https://github.com/MoonshotAI/kimi-cli/pulls,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,Kimi-K2.5,https://github.com/MoonshotAI/Kimi-K2.5,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,,https://github.com/MoonshotAI/Kimi-K2.5/graphs/commit-activity,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,"2,321",https://github.com/MoonshotAI/Kimi-K2.5/stargazers,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,327,https://github.com/MoonshotAI/Kimi-K2.5/forks,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,47,https://github.com/MoonshotAI/Kimi-K2.5/issues,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,3,https://github.com/MoonshotAI/Kimi-K2.5/pulls,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,,https://github.com/MoonshotAI/Kimi-K3/graphs/commit-activity,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,"9,079",https://github.com/MoonshotAI/Kimi-K3/stargazers,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,27,https://github.com/MoonshotAI/Kimi-K3/issues,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,7,https://github.com/MoonshotAI/Kimi-K3/pulls,candidate_unreviewed
+Moonshot AI,company,https://github.com/MoonshotAI,kimi,https://github.com/search?q=topic%3Akimi+org%3AMoonshotAI+fork%3Atrue&type=repositories,candidate_unreviewed
+DeepSeek,company,https://deepseek.com/en/transparency/,,https://deepseek.com/en/,candidate_unreviewed
+DeepSeek,company,https://deepseek.com/en/transparency/,DeepSeek Web,https://chat.deepseek.com/,candidate_unreviewed
+DeepSeek,company,https://deepseek.com/en/transparency/,DeepSeek Harness,https://deepseek.com/en/harness/,candidate_unreviewed
+DeepSeek,company,https://deepseek.com/en/transparency/,API Platform,https://platform.deepseek.com/,candidate_unreviewed
+DeepSeek,company,https://deepseek.com/en/transparency/,API Docs,https://api-docs.deepseek.com/,candidate_unreviewed
+DeepSeek,company,https://deepseek.com/en/transparency/,Downloads,https://deepseek.com/en/download/,candidate_unreviewed
+DeepSeek,company,https://deepseek.com/en/transparency/,Join Us,https://talent.deepseek.com/,candidate_unreviewed
+DeepSeek,company,https://deepseek.com/en/transparency/,Model Principles and Training Methodology View Details,https://cdn.deepseek.com/policies/en-US/model-algorithm-disclosure.html,candidate_unreviewed
+DeepSeek,company,https://deepseek.com/en/transparency/,Model Card,https://fe-static.deepseek.com/chat/transparency/deepseek-V4-model-card-EN.pdf,candidate_unreviewed
+DeepSeek,company,https://deepseek.com/en/transparency/,Technical Report,https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main/DeepSeek_V4.pdf,candidate_unreviewed
+DeepSeek,company,https://deepseek.com/en/transparency/,Model Card,https://fe-static.deepseek.com/chat/transparency/deepseek-v3.2-model-card-0414-EN.pdf,candidate_unreviewed
+DeepSeek,company,https://deepseek.com/en/transparency/,Technical Report,https://huggingface.co/deepseek-ai/DeepSeek-V3.2/blob/main/assets/paper.pdf,candidate_unreviewed
+DeepSeek,company,https://deepseek.com/en/transparency/,,https://github.com/deepseek-ai,candidate_unreviewed
+DeepSeek,company,https://deepseek.com/en/transparency/,,https://www.zhihu.com/org/deepseek-75,candidate_unreviewed
+DeepSeek,company,https://deepseek.com/en/transparency/,API Pricing,https://api-docs.deepseek.com/quick_start/pricing,candidate_unreviewed
+DeepSeek,company,https://deepseek.com/en/transparency/,Service Status,https://status.deepseek.com/,candidate_unreviewed
+DeepSeek,company,https://deepseek.com/en/transparency/,DeepSeek V4.1,https://deepseek.com/en/news/deepseek-v4-1-flash/,candidate_unreviewed
+DeepSeek,company,https://deepseek.com/en/transparency/,DeepSeek V4,https://deepseek.com/en/news/v4-preview/,candidate_unreviewed
+DeepSeek,company,https://deepseek.com/en/transparency/,DeepSeek V3.2,https://deepseek.com/en/news/deepseek-v3-2/,candidate_unreviewed
+DeepSeek,company,https://deepseek.com/en/transparency/,DeepSeek V3.1,https://deepseek.com/en/news/deepseek-v3-1/,candidate_unreviewed
+DeepSeek,company,https://deepseek.com/en/transparency/,DeepSeek R1,https://deepseek.com/en/news/r1-0528/,candidate_unreviewed
+DeepSeek,company,https://deepseek.com/en/transparency/,DeepSeek V3,https://deepseek.com/en/news/deepseek-v3/,candidate_unreviewed
+DeepSeek,company,https://deepseek.com/en/transparency/,More,https://deepseek.com/en/news/,candidate_unreviewed
+DeepSeek,company,https://deepseek.com/en/transparency/,Transparency,https://deepseek.com/en/transparency/,candidate_unreviewed
+DeepSeek,company,https://deepseek.com/en/transparency/,Careers,https://talent.deepseek.com/,candidate_unreviewed
+MIT,taxonomy,https://airisk.mit.edu/risks,,https://airisk.mit.edu/,candidate_unreviewed
+MIT,taxonomy,https://airisk.mit.edu/risks,Priority Risks,https://airisk.mit.edu/priorities,candidate_unreviewed
+MIT,taxonomy,https://airisk.mit.edu/risks,All Risks,https://airisk.mit.edu/risks,candidate_unreviewed
+MIT,taxonomy,https://airisk.mit.edu/risks,Incidents,https://airisk.mit.edu/ai-incident-tracker,candidate_unreviewed
+MIT,taxonomy,https://airisk.mit.edu/risks,Companies,https://airisk.mit.edu/company-disclosures,candidate_unreviewed
+MIT,taxonomy,https://airisk.mit.edu/risks,Mitigations,https://airisk.mit.edu/ai-risk-mitigations,candidate_unreviewed
+MIT,taxonomy,https://airisk.mit.edu/risks,Governance,https://airisk.mit.edu/ai-governance,candidate_unreviewed
+MIT,taxonomy,https://airisk.mit.edu/risks,Navigator,https://airisk.mit.edu/navigator,candidate_unreviewed
+MIT,taxonomy,https://airisk.mit.edu/risks,About,https://airisk.mit.edu/about,candidate_unreviewed
+MIT,taxonomy,https://airisk.mit.edu/risks,Blog,https://airisk.mit.edu/blog,candidate_unreviewed
+MIT,taxonomy,https://airisk.mit.edu/risks,Explore database,https://airisk.mit.edu/risks#AI-Risk-Database,candidate_unreviewed
+MIT,taxonomy,https://airisk.mit.edu/risks,Explore landscape,https://airisk.mit.edu/risks#Causal-Taxonomy-of-AI-Risks,candidate_unreviewed
+MIT,taxonomy,https://airisk.mit.edu/risks,Google Sheets,https://docs.google.com/spreadsheets/d/15LeHcpeuZC9txkvcaMoh3sUhkMvdMMry69xxXL46DT0/copy,candidate_unreviewed
+MIT,taxonomy,https://airisk.mit.edu/risks,View the Causal Taxonomy,https://docs.google.com/presentation/d/1wxg-hZAjGvFHcsfnEp1KAJJo5xvf98MB2v50B5URXZM/edit#slide=id.g314f5134687_0_70,candidate_unreviewed
+MIT,taxonomy,https://airisk.mit.edu/risks,Read our research report,https://arxiv.org/pdf/2408.12622,candidate_unreviewed
+MIT,taxonomy,https://airisk.mit.edu/risks,explore the full database,https://docs.google.com/spreadsheets/d/15LeHcpeuZC9txkvcaMoh3sUhkMvdMMry69xxXL46DT0/copy,candidate_unreviewed
+MIT,taxonomy,https://airisk.mit.edu/risks,View the Domain Taxonomy,https://docs.google.com/presentation/d/1wxg-hZAjGvFHcsfnEp1KAJJo5xvf98MB2v50B5URXZM/edit#slide=id.g325f13b19c4_0_0,candidate_unreviewed
+MIT,taxonomy,https://airisk.mit.edu/risks,copy,https://docs.google.com/spreadsheets/d/15LeHcpeuZC9txkvcaMoh3sUhkMvdMMry69xxXL46DT0/copy,candidate_unreviewed
+MIT,taxonomy,https://airisk.mit.edu/risks,In the database,https://docs.google.com/spreadsheets/d/1zbIPiSIAu6v9MI98HtB4gyM_sI4JsOSuAlVLWAIqw_U/copy,candidate_unreviewed
+MIT,taxonomy,https://airisk.mit.edu/risks,https://airisk.io/,https://airisk.io/,candidate_unreviewed
+MIT,taxonomy,https://airisk.mit.edu/risks,Priority Risks,https://airisk.mit.edu/risks,candidate_unreviewed
+MIT,taxonomy,https://airisk.mit.edu/risks,,https://x.com/MITAIRisk,candidate_unreviewed
+MIT,taxonomy,https://airisk.mit.edu/risks,,https://www.linkedin.com/showcase/mit-ai-risk-repository/,candidate_unreviewed
+MIT,taxonomy,https://airisk.mit.edu/risks,Feedback,https://airisk.mit.edu/risks,candidate_unreviewed
+MIT,taxonomy,https://airisk.mit.edu/risks,×,https://airisk.mit.edu/risks,candidate_unreviewed
+Epoch AI,benchmark,https://epoch.ai/benchmarks/use-this-data,Capabilities & benchmarking,https://epoch.ai/benchmarks,candidate_unreviewed
+Epoch AI,benchmark,https://epoch.ai/benchmarks/use-this-data,Papers & reports,https://epoch.ai/publications?type=paper&type=report,candidate_unreviewed
+Epoch AI,benchmark,https://epoch.ai/benchmarks/use-this-data,AI capabilities,https://epoch.ai/benchmarks,candidate_unreviewed
+Epoch AI,benchmark,https://epoch.ai/benchmarks/use-this-data,Epoch Automation Reports,https://epoch.ai/benchmarks/epoch-automation-reports,candidate_unreviewed
+Epoch AI,benchmark,https://epoch.ai/benchmarks/use-this-data,Earthborne Rangers,https://epoch.ai/benchmarks/ebr-bench?view=graph&tab=release-date,candidate_unreviewed
+Epoch AI,benchmark,https://epoch.ai/benchmarks/use-this-data,Capabilities & benchmarks,https://epoch.ai/topics/capabilities,candidate_unreviewed
+Epoch AI,benchmark,https://epoch.ai/benchmarks/use-this-data,Overview,https://epoch.ai/benchmarks,candidate_unreviewed
+Epoch AI,benchmark,https://epoch.ai/benchmarks/use-this-data,Benchmarks,https://epoch.ai/benchmarks/search,candidate_unreviewed
+Epoch AI,benchmark,https://epoch.ai/benchmarks/use-this-data,Data,https://epoch.ai/benchmarks/use-this-data,candidate_unreviewed
+Epoch AI,benchmark,https://epoch.ai/benchmarks/use-this-data,About,https://epoch.ai/benchmarks/about,candidate_unreviewed
+Epoch AI,benchmark,https://epoch.ai/benchmarks/use-this-data,download the data,https://epoch.ai/data/benchmark_data.zip,candidate_unreviewed
+Epoch AI,benchmark,https://epoch.ai/benchmarks/use-this-data,interactive tools,https://epoch.ai/benchmarks,candidate_unreviewed
+Epoch AI,benchmark,https://epoch.ai/benchmarks/use-this-data,,https://epoch.ai/data/benchmark_data.zip,candidate_unreviewed
+METR,independent,https://metr.org/evaluations/,Click here if you are not redirected.,https://metr.org/risk-assessment/,candidate_unreviewed
+METR,independent,https://metr.org/time-horizons/,Risk Assessment,https://metr.org/risk-assessment,candidate_unreviewed
+METR,independent,https://metr.org/time-horizons/,,https://metr.org/assets/benchmark_results_1_1.yaml,candidate_unreviewed
+METR,independent,https://metr.org/time-horizons/,here,https://metr.org/assets/benchmark_results_1_1.yaml,candidate_unreviewed
+METR,independent,https://metr.org/time-horizons/,What does running a time horizon evaluation involve?,https://metr.org/time-horizons/#what-does-running-a-time-horizon-evaluation-involve,candidate_unreviewed
+METR,independent,https://metr.org/time-horizons/,Why has METR reported time horizons for some models but not others?,https://metr.org/time-horizons/#why-has-metr-reported-time-horizons-for-some-models-but-not-others,candidate_unreviewed
+METR,independent,https://metr.org/time-horizons/,RE-Bench,https://metr.org/blog/2024-11-22-evaluating-r-d-capabilities-of-llms/,candidate_unreviewed
+UK AISI,independent,https://www.aisi.gov.uk/frontier-ai-trends-report,Read the Frontier AI Trends Report,https://www.aisi.gov.uk/frontier-ai-trends-report,candidate_unreviewed
+UK AISI,independent,https://www.aisi.gov.uk/frontier-ai-trends-report,Contact,https://www.aisi.gov.uk/frontier-ai-trends-report,candidate_unreviewed
+UK AISI,independent,https://www.aisi.gov.uk/frontier-ai-trends-report,Trends Report,https://www.aisi.gov.uk/frontier-ai-trends-report,candidate_unreviewed
+UK AISI,independent,https://www.aisi.gov.uk/frontier-ai-trends-report,Trends Report PDF,https://www.aisi.gov.uk/frontier-ai-trends-report/pdf,candidate_unreviewed
+UK AISI,independent,https://www.aisi.gov.uk/frontier-ai-trends-report,Download PDF,https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6943e6c11cb5bfd8178443f9_Frontier%20AI%20Trends%20Report%20-%20UK%20AISI%202025%20-%20compressed.pdf,candidate_unreviewed
+UK AISI,independent,https://www.aisi.gov.uk/frontier-ai-trends-report,,https://www.aisi.gov.uk/frontier-ai-trends-report/pdf,candidate_unreviewed
+UK AISI,independent,https://www.aisi.gov.uk/frontier-ai-trends-report,cyber,https://www.aisi.gov.uk/frontier-ai-trends-report#cyber,candidate_unreviewed
+UK AISI,independent,https://www.aisi.gov.uk/frontier-ai-trends-report,chemistry and biology,https://www.aisi.gov.uk/frontier-ai-trends-report#chemistry--biology,candidate_unreviewed
+UK AISI,independent,https://www.aisi.gov.uk/frontier-ai-trends-report,‍ Cyber,https://www.aisi.gov.uk/frontier-ai-trends-report#cyber,candidate_unreviewed
+UK AISI,independent,https://www.aisi.gov.uk/frontier-ai-trends-report,‍ Autonomy skills,https://www.aisi.gov.uk/frontier-ai-trends-report#self-replication,candidate_unreviewed
+UK AISI,independent,https://www.aisi.gov.uk/frontier-ai-trends-report,Section 5,https://www.aisi.gov.uk/frontier-ai-trends-report#self-replication,candidate_unreviewed
+UK AISI,independent,https://www.aisi.gov.uk/frontier-ai-trends-report,Chemistry & biology,https://www.aisi.gov.uk/frontier-ai-trends-report#chemistry--biology,candidate_unreviewed
+UK AISI,independent,https://www.aisi.gov.uk/frontier-ai-trends-report,Appendix,https://www.aisi.gov.uk/frontier-ai-trends-report#appendix,candidate_unreviewed
+UK AISI,independent,https://www.aisi.gov.uk/frontier-ai-trends-report,Model Evaluation and Threat Research,https://arxiv.org/abs/2503.14499,candidate_unreviewed
+UK AISI,independent,https://www.aisi.gov.uk/frontier-ai-trends-report,Section 3,https://www.aisi.gov.uk/frontier-ai-trends-report#cyber,candidate_unreviewed
+UK AISI,independent,https://www.aisi.gov.uk/frontier-ai-trends-report,Section 4,https://www.aisi.gov.uk/frontier-ai-trends-report#4-safeguards,candidate_unreviewed
+UK AISI,independent,https://www.aisi.gov.uk/frontier-ai-trends-report,here,https://www.aisi.gov.uk/work/early-insights-from-developing-question-answer-evaluations-for-frontier-ai,candidate_unreviewed
+UK AISI,independent,https://www.aisi.gov.uk/frontier-ai-trends-report,here.,https://www.aisi.gov.uk/blog/early-insights-from-developing-question-answer-evaluations-for-frontier-ai,candidate_unreviewed
+UK AISI,independent,https://www.aisi.gov.uk/frontier-ai-trends-report,Section 7,https://www.aisi.gov.uk/frontier-ai-trends-report#7-open-source-models,candidate_unreviewed
+UK AISI,independent,https://www.aisi.gov.uk/frontier-ai-trends-report,Section 3,https://www.aisi.gov.uk/frontier-ai-trends-report#3-capabilities--risks-in-key-domains,candidate_unreviewed
+UK AISI,independent,https://www.aisi.gov.uk/frontier-ai-trends-report,taken seriously by many experts.,https://internationalaisafetyreport.org/publication/international-ai-safety-report-2025#223-loss-of-control,candidate_unreviewed
+UK AISI,independent,https://www.aisi.gov.uk/frontier-ai-trends-report,Similar external investigations,https://www-cdn.anthropic.com/07b2a3f9902ee19fe39a36ca638e5ae987bc64dd.pdf,candidate_unreviewed
+UK AISI,independent,https://www.aisi.gov.uk/frontier-ai-trends-report,high-profile cases,https://time.com/7312484/chatgpt-openai-suicide-lawsuit/,candidate_unreviewed
+UK AISI,independent,https://www.aisi.gov.uk/frontier-ai-trends-report,promising mitigations,https://www.aisi.gov.uk/work/managing-risks-from-increasingly-capable-open-weight-ai-systems,candidate_unreviewed
+UK AISI,independent,https://www.aisi.gov.uk/frontier-ai-trends-report,METR’s time horizon benchmarks,https://evaluations.metr.org/deepseek-qwen-report/,candidate_unreviewed
+UK AISI,independent,https://www.aisi.gov.uk/frontier-ai-trends-report,Artificial Analysis (AA) Intelligence Index v2.2,https://artificialanalysis.ai/evaluations/artificial-analysis-intelligence-index,candidate_unreviewed
+UK AISI,independent,https://www.aisi.gov.uk/frontier-ai-trends-report,AA’s methodology.,https://artificialanalysis.ai/methodology/intelligence-benchmarking#intelligence-evaluation-principles,candidate_unreviewed
+UK AISI,independent,https://www.aisi.gov.uk/frontier-ai-trends-report,RE-Bench,https://metr.org/blog/2024-11-22-evaluating-r-d-capabilities-of-llms/,candidate_unreviewed
+UK AISI,independent,https://www.aisi.gov.uk/frontier-ai-trends-report,actively working,https://www.aisi.gov.uk/work/managing-risks-from-increasingly-capable-open-weight-ai-systems,candidate_unreviewed
+UK AISI,independent,https://www.aisi.gov.uk/frontier-ai-trends-report,www.ons.gov.uk/economy/economicoutputandproductivity/output/datasets/businessinsightsandimpactontheukeconomy,http://www.ons.gov.uk/economy/economicoutputandproductivity/output/datasets/businessinsightsandimpactontheukeconomy,candidate_unreviewed
+UK AISI,independent,https://www.aisi.gov.uk/frontier-ai-trends-report,www.aisi.gov.uk/work/managing-risks-from-increasingly-capable-open-weight-ai-systems,https://www.aisi.gov.uk/work/managing-risks-from-increasingly-capable-open-weight-ai-systems,candidate_unreviewed
+UK AISI,independent,https://www.aisi.gov.uk/frontier-ai-trends-report,www-cdn.anthropic.com/6be99a52cb68eb70eb9572b4cafad13df32ed995.pdf,https://www-cdn.anthropic.com/6be99a52cb68eb70eb9572b4cafad13df32ed995.pdf,candidate_unreviewed
+UK AISI,independent,https://www.aisi.gov.uk/frontier-ai-trends-report,,https://www.aisi.gov.uk/frontier-ai-trends-report#top,candidate_unreviewed
