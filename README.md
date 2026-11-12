@@ -5,9 +5,9 @@ Scope: 2023-01-01 through 2026-11-12 inclusive; OpenAI, Anthropic, Google/DeepMi
 Python 3.10+ with internet access:
 ```
 pip install pandas requests beautifulsoup4
-python collect.py
+python scripts/collect.py
 ```
-The script downloads Epoch metadata, filters companies and dates, saves source index HTML, and produces candidate document links for human review. It also downloads the few explicitly selected seed pages in source_manifest.csv. It does not download all discovered reports or classify passages. Review discovered links, add actual model-specific report URLs to the manifest, and mark download=yes. GitHub repository HTML is a landing page, not a PDF; locate the actual report before extraction. Dynamic pages may require manual browsing. Download MIT's full risk workbook from its index and the Epoch benchmark ZIP from its data page; keep their original files under raw/ with license/citation. METR time horizons data and AISI results require separate review. Do not republish report text without checking permissions.
+The script downloads Epoch metadata, filters companies and dates, saves source index HTML, and produces candidate document links for human review. It also downloads the few explicitly selected seed pages in data/source_manifest.csv. It does not download all discovered reports or classify passages. Review discovered links, add actual model-specific report URLs to the manifest, and mark download=yes. GitHub repository HTML is a landing page, not a PDF; locate the actual report before extraction. Dynamic pages may require manual browsing. Download MIT's full risk workbook from its index and the Epoch benchmark ZIP from its data page; keep their original files under data/raw/ with license/citation. METR time horizons data and AISI results require separate review. Do not republish report text without checking permissions.
 
 ## Proposed tables
 models(model_id, developer, model_name, release_date, weight_access, epoch_name, source_url)
@@ -22,3 +22,4 @@ coverage(model_id, search_date, source_type, status, search_notes)
 Coverage statuses: not_checked, found, not_found_after_search, unavailable. Never equate missing documentation with no test or no risk. Preserve conflicting measurements and distinguish independent evaluator partnerships from fully external testing. Match exact model variants and compare scores only for compatible protocols. Use report_models for reports covering multiple models.
 
 Source manifest is a verified entry-point list and seed documents, not a complete collected corpus. The script has not been live-tested here because external network access was unavailable. Epoch data is CC BY with attribution; benchmark data may have additional source terms. Record retrieval dates and snapshot versions for reproducibility.
+
