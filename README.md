@@ -23,3 +23,7 @@ Coverage statuses: not_checked, found, not_found_after_search, unavailable. Neve
 
 Source manifest is a verified entry-point list and seed documents, not a complete collected corpus. The script has not been live-tested here because external network access was unavailable. Epoch data is CC BY with attribution; benchmark data may have additional source terms. Record retrieval dates and snapshot versions for reproducibility.
 
+
+## License
+
+Code is released under the [MIT License](LICENSE). Data from outside sources keeps its original terms.
